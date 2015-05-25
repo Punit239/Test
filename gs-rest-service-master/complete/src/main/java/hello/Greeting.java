@@ -1,3 +1,5 @@
+// THIS GIVES THE FORMAT OF THE MESSAGE
+
 package hello;
 
 public class Greeting {
