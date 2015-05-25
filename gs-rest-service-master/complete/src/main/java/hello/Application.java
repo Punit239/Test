@@ -23,4 +23,10 @@ public class Application {
     	
     	System.out.println("Add1 function");
     }
+    
+    // ADDING ADD1 FUNCTION
+    public static void add2(){
+    	
+    	System.out.println("Add2 function");
+    }
 }
