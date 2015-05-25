@@ -1,6 +1,5 @@
 // THIS GIVES THE FORMAT OF THE MESSAGE
-// THIS COMMENT NNEDS TO BE DELETED
-
+// THIS IS A FAKE COMMENT
 package hello;
 
 public class Greeting {
