@@ -1,3 +1,5 @@
+// APPLICATION STARTS HERE
+
 package hello;
 
 import org.springframework.boot.SpringApplication;
