@@ -17,4 +17,10 @@ public class Application {
     	
     	System.out.println("Demo function");
     }
+    
+    // ADDING ADD1 FUNCTION
+    public static void add1(){
+    	
+    	System.out.println("Add1 function");
+    }
 }
