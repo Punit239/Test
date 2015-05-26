@@ -30,4 +30,9 @@ public class Application {
     	System.out.println("Add2 function");
     }
     
+    // adding add5 function
+    public static void add5(){
+    	
+    	System.out.println("Add2 function");
+    }
 }
