@@ -35,4 +35,6 @@ public class Application {
     	
     	System.out.println("Add2 function");
     }
+    
+ // adding add6 function
 }
